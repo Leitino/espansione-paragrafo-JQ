@@ -3,7 +3,11 @@
   margin: 0;
   padding: 0;
 }
+h1{
+  color:white;
+}
 p{
+  color:white;
   display: inline-block;
 }
 #button{
@@ -12,13 +16,22 @@ p{
   display: inline-block;
 }
 body{
+  background-image: url(https://squareportal.files.wordpress.com/2016/03/kingsglaiveffxvwallpaper.jpg?w=1905);
+  background-position: center;
+  background-size: cover;
   width: 100%;
   height: 100vh;
 }
 .trama{
+  font-size: 1.3em;
+  color:white;
   display: none;
 }
 .film_trama{
-  border: 1px solid black;
+  color:white;
+  border: 1px solid white;
   display: none;
+}
+.filtro{
+  background-color: rgba(0, 0, 0, 0.7);
 }
