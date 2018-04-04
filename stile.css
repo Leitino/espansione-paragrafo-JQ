@@ -23,6 +23,7 @@ body{
   height: 100vh;
 }
 .trama{
+  padding: 8px;
   font-size: 1.3em;
   color:white;
   display: none;
